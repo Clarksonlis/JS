@@ -103,6 +103,6 @@ fullName ('Даша' , 'Каптюг');
 
 let i = 21;
     while(i < 67){
-        i= i+2;
         console.log(i);
+        i= i+2;
     }
